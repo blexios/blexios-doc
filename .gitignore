@@ -1,0 +1,21 @@
+# Binaries
+/blexios
+/blexios.exe
+/*.exe
+
+# Build output
+/bin/
+/obj/
+
+# Go deps and cache
+/go.sum
+/.cache/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+*.swp
+
+# Demo generated artifacts
+/examples/doc/*.pdf

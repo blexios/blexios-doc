@@ -1,0 +1,18 @@
+[
+  {
+    "id": "C-001",
+    "firstName": "Josué",
+    "lastName": "Bondo",
+    "city": "Kinshasa",
+    "active": true,
+    "birthDate": "1994-05-17"
+  },
+  {
+    "id": "C-002",
+    "firstName": "Marie",
+    "lastName": "Kabuya",
+    "city": "Lubumbashi",
+    "active": false,
+    "birthDate": "1991-02-09"
+  }
+]

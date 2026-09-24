@@ -1,0 +1,29 @@
+[
+  {
+    "id": "2138",
+    "employee_id": "53",
+    "date_presence": "2026-09-21",
+    "heure_arrivee": "19:37:00",
+    "heure_depart": null,
+    "statut": "présent",
+    "justification": null
+  },
+  {
+    "id": "2128",
+    "employee_id": "53",
+    "date_presence": "2026-09-19",
+    "heure_arrivee": "19:32:00",
+    "heure_depart": null,
+    "statut": "présent",
+    "justification": null
+  },
+  {
+    "id": "2124",
+    "employee_id": "52",
+    "date_presence": "2026-09-18",
+    "heure_arrivee": "09:15:00",
+    "heure_depart": "17:35:00",
+    "statut": "présent",
+    "justification": null
+  }
+]
