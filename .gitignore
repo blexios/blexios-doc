@@ -8,7 +8,6 @@
 /obj/
 
 # Go deps and cache
-/go.sum
 /.cache/
 
 # OS/editor files
